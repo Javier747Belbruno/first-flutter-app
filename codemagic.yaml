@@ -1,5 +1,6 @@
 workflows:
   hello-world:
+    max_build_duration: 60
     name: Hello world workflow
     scripts:
         - echo "Hello World!"
