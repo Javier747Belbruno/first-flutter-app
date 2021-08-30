@@ -9,7 +9,7 @@ workflows:
       flutter: stable
       xcode: latest
       cocoapods: default
-    scripts:
+    #scripts:
       #- |
         # set up debug keystore
         #rm -f ~/.android/debug.keystore
